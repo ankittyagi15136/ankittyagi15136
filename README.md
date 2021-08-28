@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankittyagi15136
+- 👋 Hi, I’m Ankit.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on web application related projects.
