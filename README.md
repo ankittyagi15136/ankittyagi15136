@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ankit.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on web application related projects.
+- 👀 I’m interested in option pricing and risk management.
+- 🌱 This place is for hosting my modelling and simulation projects.
 
 <!---
 ankittyagi15136/ankittyagi15136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
