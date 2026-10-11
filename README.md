@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit.
 - 👀 I’m interested in option pricing and risk management.
-- 🌱 This place is for hosting my modelling and simulation projects.
+- 🌱 This place is for my modelling and simulation projects.
 
 <!---
 ankittyagi15136/ankittyagi15136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
